@@ -105,7 +105,7 @@
 - [Make a scatter plot with Svelte and D3](https://dev.to/anupjoseph/make-a-scatter-plot-with-svelte-and-d3-56md)
 - [Make a bar chart with D3 and Svelte](https://dev.to/learners/make-a-bar-chart-with-d3-and-svelte-31nj)
 - [Series Intro: Data Visualization With Svelte and D3](https://dev.to/learners/series-intro-data-visualization-with-svelte-and-d3-4c07)
-- [Unlocking Resnets](https://medium.com/swlh/opening-resnets-46bb28f43b25?source=rss-7ddcfccb7bf7------2)
+- [Unlocking Resnets](https://medium.com/analytics-vidhya/opening-resnets-46bb28f43b25?source=rss-7ddcfccb7bf7------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
