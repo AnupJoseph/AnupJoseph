@@ -104,7 +104,7 @@
 - [Maps with D3 and Svelte](https://dev.to/learners/maps-with-d3-and-svelte-8p3)
 - [Finding your path in Python](https://levelup.gitconnected.com/finding-your-path-in-python-9f840e7a0a36?source=rss-7ddcfccb7bf7------2)
 - [Line Chart with Svelte and D3](https://dev.to/learners/line-chart-with-svelte-and-d3-3086)
-- [Make a scatter plot with Svelte and D3](https://dev.to/anupjoseph/make-a-scatter-plot-with-svelte-and-d3-56md)
+- [Make a scatter plot with Svelte and D3](https://dev.to/learners/make-a-scatter-plot-with-svelte-and-d3-56md)
 - [Make a bar chart with D3 and Svelte](https://dev.to/learners/make-a-bar-chart-with-d3-and-svelte-31nj)
 <!-- BLOG-POST-LIST:END -->  
 
