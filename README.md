@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Anup, a full-time Machine Learning Engineer working with NLP</div>  
+### <div align="center">I'm Anup, I write code and sometimes it works too!!!</div>  
   
 
 - 🔭 I’m working on revamping my site  
