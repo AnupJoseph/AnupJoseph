@@ -102,11 +102,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [The Polar Express: Part 1](https://anupjoseph.medium.com/the-polar-express-part-1-44483f62ee91?source=rss-7ddcfccb7bf7------2)
 - [Asking Questions of Kaggle survey with Julia](https://levelup.gitconnected.com/asking-questions-of-kaggle-survey-with-julia-c6a28d0ffcc4?source=rss-7ddcfccb7bf7------2)
 - [Maps with D3 and Svelte](https://dev.to/learners/maps-with-d3-and-svelte-8p3)
 - [Finding your path in Python](https://levelup.gitconnected.com/finding-your-path-in-python-9f840e7a0a36?source=rss-7ddcfccb7bf7------2)
 - [Line Chart with Svelte and D3](https://dev.to/learners/line-chart-with-svelte-and-d3-3086)
-- [Make a scatter plot with Svelte and D3](https://dev.to/learners/make-a-scatter-plot-with-svelte-and-d3-56md)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
