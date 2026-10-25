@@ -105,8 +105,8 @@
 - [The Polar Express: Part 2](https://anupjoseph.medium.com/the-polar-express-part-2-8a238c791177?source=rss-7ddcfccb7bf7------2)
 - [The Polar Express: Part 1](https://anupjoseph.medium.com/the-polar-express-part-1-44483f62ee91?source=rss-7ddcfccb7bf7------2)
 - [Asking Questions of Kaggle survey with Julia](https://levelup.gitconnected.com/asking-questions-of-kaggle-survey-with-julia-c6a28d0ffcc4?source=rss-7ddcfccb7bf7------2)
-- [Maps with D3 and Svelte](https://dev.to/learners/maps-with-d3-and-svelte-8p3)
 - [Finding your path in Python](https://levelup.gitconnected.com/finding-your-path-in-python-9f840e7a0a36?source=rss-7ddcfccb7bf7------2)
+- [Unlocking Resnets](https://medium.com/analytics-vidhya/opening-resnets-46bb28f43b25?source=rss-7ddcfccb7bf7------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
